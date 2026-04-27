@@ -14,7 +14,7 @@ Practicing intrusion detection and basic security monitoring
 Network Configuration (Cisco routers, switches, access points)
 Packet Analysis (Wireshark)
 Hardware & Software Troubleshooting
-Basic Security Concepts (phishing awareness, threat analysis)
+Basic Security Concepts (phishing awareness, threat analysis)		
 📜 Certifications
 CCNA
 CompTIA A+
