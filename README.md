@@ -10,11 +10,13 @@ Configuring routers, switches, and VLANs
 Troubleshooting hardware and software issues
 Analyzing network traffic and identifying threats
 Practicing intrusion detection and basic security monitoring
+
 🛠️ Skills & Tools
 Network Configuration (Cisco routers, switches, access points)
 Packet Analysis (Wireshark)
 Hardware & Software Troubleshooting
-Basic Security Concepts (phishing awareness, threat analysis)		
+Basic Security Concepts (phishing awareness, threat analysis)	
+
 📜 Certifications
 CCNA
 CompTIA A+
